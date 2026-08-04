@@ -1,0 +1,6 @@
+{
+  "name": "Journnex Trading Journal",
+  "description": "Professional Forex & Crypto Trading Journal, Multi-Account Analytics, P&L Calendar, and Playbook Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
